@@ -1,0 +1,243 @@
+
+.navbar-collapse .navbar-nav .nav-link{
+    font-size: 20px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+    padding-left: 65px;
+}
+
+.nav-itam {
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+    font-size: 20px;
+    color: black;
+}
+
+.bg-color{
+    background:#FFFBF0;
+}
+
+.banner img{
+    width: 100%;
+    padding-bottom: 61px;
+    padding-top: 36px;
+}
+
+.Penguin-area h1,h2{
+    font-size: 65px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.Penguin-area h1{
+    padding-top: 150px;
+    color: #FABE4C;
+}
+
+.Penguin-area h2{
+    color: #363958;
+}
+
+.Penguin-area p{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Roboto',sans-serif;
+    padding: 15px 0px; 
+}
+
+.buy-btn{
+    padding: 15px 25px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: white;
+    background-color: #7f942d;
+    border: 0;
+    border-radius: 10px;
+    outline: 0px;
+    box-shadow: none;
+}
+
+
+
+.buy-btn:hover{
+    color: white;
+    background-color: #8AA520;
+}
+
+.icon{
+    margin-right: 10px;
+    font-size: 15px;
+
+}
+
+.tital{
+
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    font-weight: 700;
+    color: #363958;
+
+}
+
+.jacket-data{
+    border: 15px solid #FFFFFF;
+    border-radius: 15px ;
+
+
+}
+
+.jacket-img{
+    background-color: #F1F1F1;
+    border-radius: 15px;
+    padding: 60px;
+    height: 400px;
+    width: 100%;
+}
+
+.buy-now{
+    display: flex;
+   
+}
+
+
+.price{
+    font-size: 35px;
+    color:#FABE4C;
+    font-weight: 700;
+    padding-left:3px;
+}
+
+
+
+.jacket-data h1{
+    font-family: 'Roboto',sans-serif;
+    font-size: 21px;
+    color: #363958;
+    font-weight: 700;
+    padding-top: 18px;
+    padding-left: 8px;
+}
+
+.jacket-data p{
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.shop img{
+    padding: 50px;
+}
+
+.service-area{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    
+}
+
+.service-icon{
+    padding: 20px  10px 0px 10px;
+}
+
+.service-data{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.service-data h2{
+    font-size: 20px;
+    font-family: 'Roboto',sans-serif;
+}
+
+.service-data p{
+    font-family: 'Roboto',sans-serif;
+    font-size: 17px;
+}
+
+.mtb-60{
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+
+.catagori{
+    display: flex;
+    padding: 43px 49px;
+    /* height: 120px; */
+    background-color: #ffffff;
+    border-radius: 25px;
+    box-shadow: 2px 4px 24px rgba(104, 104, 104, 0.322);
+}
+
+.catagori h2{
+    font-family: 'Roboto',sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+   
+    
+
+}
+
+.catagori h2 a{
+    text-decoration: none;
+    color: #363958
+}
+
+.cata-mr{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.catagori-tital h4 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Roboto',sans-serif;
+}
+
+.mt{
+    margin-top: 45px;
+    margin-bottom: 150px;
+}
+
+.top-sell-data{
+    display: flex;
+}
+
+
+.top-data h3{
+
+    text-transform: uppercase;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    color: #363958;
+    font-weight: 900;
+}
+
+.top-span{
+    color: #ffc60d;
+}
+
+.top-b{
+    margin-top:100px ;
+    margin-bottom: 250px;
+}
+
+.footer-data{
+    height: 80px;
+    font-family: 'Oswald', sans-serif;
+    line-height:80px;
+    background-color: #363958;
+    color: #ffc60d;
+    font-size: 30px;
+}
